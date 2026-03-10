@@ -1,3 +1,5 @@
+Only For Educational Purpose
+
 Subway Surfer iOS 4 Port
 
 this project started when I buyed a iPod touch 2G
