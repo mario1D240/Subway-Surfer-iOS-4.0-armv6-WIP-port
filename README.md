@@ -20,4 +20,10 @@ Support armv6 + armv7
 
 Current Status:
 
-Crash On Loading screen(i will limit the max texture size to 256 to 128 later)
+v0.4 fixed texture missing issues 
+
+v0.3 added music
+
+v0.2 playable
+
+v0.1 - Crash On Loading screen(i will limit the max texture size to 256 to 128 later)
